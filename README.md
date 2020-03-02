@@ -26,4 +26,10 @@ The following datasets and model architectures are implemented.
 * [Fully Convolutional DenseNets](https://arxiv.org/abs/1611.09326) (aka the 100 Layer Tiramisu)
 
 #### How to run
-* Run file main.py, change the path to the data to fit the device
+* import library as: tensorflow, numpy,...
+* Dowload data from the path after, then unzip them:
+  *the path of train :https://drive.google.com/open?id=1G8pPbb_0-GWTY_OwTt8lhlWmgwJJAt1l
+  *the path of validation: https://drive.google.com/open?id=1EVpzts09y-glvehZ6Oq8glx9gAMdzWw9
+  *the path of test: https://drive.google.com/open?id=1hRIe08q2AqjP7UjB6JGc0O7FG9DW_KVA
+* Change the path to the data to fit the device in main.py
+*Run main.py
