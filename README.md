@@ -25,4 +25,5 @@ The following datasets and model architectures are implemented.
 * [U-Net](https://arxiv.org/abs/1505.04597)
 * [Fully Convolutional DenseNets](https://arxiv.org/abs/1611.09326) (aka the 100 Layer Tiramisu)
 
-
+#### How to run
+* Run file main.py, change the path to the data to fit the device
